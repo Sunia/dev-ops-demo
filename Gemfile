@@ -5,3 +5,10 @@ gem 'sinatra'
 gem 'puma'
 gem 'foreman'
 gem 'rake'
+
+
+group :test, :development do
+  gem 'rspec'
+  gem 'rack-test'
+  gem 'pry'
+end
