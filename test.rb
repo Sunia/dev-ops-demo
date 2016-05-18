@@ -1,17 +1,17 @@
-ENV['RACK_ENV'] = 'test'
-# require 'rack/test'
-require_relative 'app.rb'
+# ENV['RACK_ENV'] = 'test'
+# # require 'rack/test'
+# require_relative 'app.rb'
 
-include Rack::Test::Methods
+# include Rack::Test::Methods
 
-def app
-  Sinatra::Application
-end
+# def app
+#   Sinatra::Application
+# end
 
-describe "Return Hello world" do
+# describe "Return Hello world" do
 
-  it "should return the factors of 6" do
-    assert_equal true
-  end
+#   it "should return the factors of 6" do
+#     assert_equal true
+#   end
 
-end
+# end
