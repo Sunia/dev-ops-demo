@@ -1,0 +1,147 @@
+Learning
+
+How to run ruby application
+  - what is gemset
+  - how to install bundle
+  - What is gemfile
+
+Sinatra Application
+  - What is Rack based application
+  - Sinatra configuration
+
+
+Ruby different servers to handle the load
+  - Deploying Rails Applications with the Puma Web Server   ->   3-5 hours 
+
+Git and Github to handle the source code
+
+Heroku to deploy the Rack based Application
+
+Travis-CI   - 12 hours
+
+Virtual Box   - 10-15 hours for R&D and implementation.
+
+
+Linux UBuntu - Servers - UBuntu O.S
+
+Commands - 
+
+1. OOPS 
+
+2. Ruby  - Syntax, classes and all the topics of Ruby. Simple ruby application.
+
+3. Rack based Application
+
+4. Sinatra Application + Puma webserver. 
+
+5. Installion and Creating Environment on the Ubuntu O.S
+
+6. Commands to work on Ubuntu
+
+7. Git and Github
+
+8. Ruby on Rails Application  - ROR
+
+9. MVC Architecture
+
+10. Active Records
+  - Active Record Basics
+  - Active Record Migrations
+  - Active Record Validations
+  - Active Record Callbacks
+  - Active Record Associations
+  - Active Record Query Interface
+
+  Views
+    - Rendering, layouts, Redirecting.
+
+  Controllers
+
+  Migrations
+  database.yml
+  routes
+
+11. Mysql, Mongodb, postgresql 
+
+12. Deployment on Heroku
+
+13. Servers ssh on Azure, Engineyard, AWS.
+
+14. passenger, nginx 
+
+15. Cucumber, Selenium and webdriver, mechanize 
+
+16. Continuous INtegration - Feature test cases - Automation of test cases using Jenkins.
+
+17. Gemfile and Gemsets
+
+18. Jenkins and Travis CI
+
+19. Docker, Vagrant - Virtual Box Environment. 
+
+20. API Integration with the Social media sites
+
+21. Deploying the application with web servers and application servers
+
+22. Unicorn, Puma, Thin, Tomcat webservers
+
+23. Paypal, Mem-cache, Scraping tool
+
+24. Import and Export data from a XLS file
+
+25. Technologies: JavaScript, CSS, HTML, JQuery, Bootstrap3,  HAML, SCSS
+
+26. IDE:  Sublime3, Aptana Studio
+
+27. Active Support Core Extensions
+28. Rails Internationalization API
+29. Action Mailer Basics
+30. Active Job Basics
+31. Securing Rails Applications
+32. Debugging Rails Applications
+33. Configuring Rails Applications
+34. Rails Command Line Tools and Rake Tasks
+35. Asset Pipeline
+36. Working with JavaScript in Rails
+37. Autoloading and Reloading Constants
+38. Extending Rails
+39. Rails on Rack
+40. Creating and Customizing Rails Generators
+
+41. puppet,chef, deployment to environments
+
+Development, Staging and production environments. 
+
+42. Capistrano - Deploying package file to application server in different environment(Dev to Prod)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

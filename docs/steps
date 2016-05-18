@@ -1,0 +1,40 @@
+Steps to make account on the github.
+
+1. Extract the folder.
+
+2. git init
+
+3. bundle install
+
+4. git remote add origin https://github.com/Sunia/dev-ops-demo.git
+
+5. git add .
+
+6. git push origin master
+
+
+git config user.name
+git config user.email
+
+=============================================== Heroku
+
+=> heroku login 
+
+skalra17@yahoo.in
+arohi1237
+
+======================
+
+=> Add new repo on heroku and go to the deploy tab
+
+1. heroku git:remote -a dev-ops-test
+
+2. git push heroku master
+
+=============================================
+
+=> https://dev-ops-test.herokuapp.com/
+
+  --   return Hello world
+
+=============================================

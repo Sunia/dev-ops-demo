@@ -1,0 +1,17 @@
+Puma - to handle loads
+
+1. Vagrant ->  provides easy to configure, reproducible, and portable work environments.
+
+2. Capistrano
+3. Heroku     
+    -> Application can be scaled, preferably automatically, to handle increased loads.
+
+4. git cola   
+    -> Changes to the application's source code can be automatically tested before they are merged into the master branch.
+
+5. Travis
+
+
+================  Deploying Rack-based Apps
+https://devcenter.heroku.com/articles/rack
+
