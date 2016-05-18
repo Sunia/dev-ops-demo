@@ -1,0 +1,12 @@
+Downlaod UBuntu from the official site
+http://www.ubuntu.com/download/desktop  
+
+To download the virtual box
+https://www.virtualbox.org/wiki/Downloads
+
+install the exe file fo virtual box
+
+While installing, in the dropdown, choose ubuntu 64 bit
+and give path of downloaded ubuntu exe file
+
+Thus, virtual box is created.
